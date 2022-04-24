@@ -1,0 +1,40 @@
+{
+   "fruits":[
+      {
+         "name":"Apple",
+         "color":"Red"
+      },
+      {
+         "name":"Apricot",
+         "color":"Orange"
+      },
+      {
+         "name":"Banana",
+         "color":"Yellow"
+      },
+      {
+         "name":"Cherries",
+         "color":"Red"
+      },
+      {
+         "name":"Coconut",
+         "color":"Brown & white"
+      },
+      {
+         "name":"Grapefruit",
+         "color":"Orange"
+      },
+      {
+         "name":"Peach",
+         "color":"Orange"
+      },
+      {
+         "name":"Pineapple",
+         "color":"Sponge Bob"
+      },
+      {
+         "name":"Watermelon",
+         "color":"Red & Green"
+      }
+   ]
+}
