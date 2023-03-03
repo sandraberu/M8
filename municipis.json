@@ -1,0 +1,3085 @@
+{
+    "data": [
+        {
+            "provincia": "Tarragona",
+            " territori": [
+                {
+                    "municipis": [
+                        {
+                            "municipi": "Aiguamúrcia"
+                        },
+                        {
+                            "municipi": "Alcover"
+                        },
+                        {
+                            "municipi": "Alió"
+                        },
+                        {
+                            "municipi": "Bràfim"
+                        },
+                        {
+                            "municipi": "Cabra del Camp"
+                        },
+                        {
+                            "municipi": "Figuerola del Camp"
+                        },
+                        {
+                            "municipi": "Gar ells, els"
+                        },
+                        {
+                            "municipi": "Masó, la"
+                        },
+                        {
+                            "municipi": "Milà, el"
+                        },
+                        {
+                            "municipi": "Montferri"
+                        },
+                        {
+                            "municipi": "Mont-ral"
+                        },
+                        {
+                            "municipi": "Nulles"
+                        },
+                        {
+                            "municipi": "Pla de Santa Maria, el"
+                        },
+                        {
+                            "municipi": "Pont d'Armentera, el"
+                        },
+                        {
+                            "municipi": "Puigpelat"
+                        },
+                        {
+                            "municipi": "Querol"
+                        },
+                        {
+                            "municipi": "Riba, la"
+                        },
+                        {
+                            "municipi": "Rodonyà"
+                        },
+                        {
+                            "municipi": "Rourell, el"
+                        },
+                        {
+                            "municipi": "Vallmoll"
+                        },
+                        {
+                            "municipi": "Valls"
+                        },
+                        {
+                            "municipi": "Vilabella"
+                        },
+                        {
+                            "municipi": "Vila-rodona"
+                        }
+                    ],
+                    "comarca": "Alt Camp"
+                },
+                {
+                    "municipis": [
+                        {
+                            "municipi": "Albiol, l'"
+                        },
+                        {
+                            "municipi": "Aleixar, l'"
+                        },
+                        {
+                            "municipi": "Alforja"
+                        },
+                        {
+                            "municipi": "Almoster"
+                        },
+                        {
+                            "municipi": "Arbolí"
+                        },
+                        {
+                            "municipi": "Argentera, l'"
+                        },
+                        {
+                            "municipi": "Borges del Camp, les"
+                        },
+                        {
+                            "municipi": "Botarell"
+                        },
+                        {
+                            "municipi": "Cambrils"
+                        },
+                        {
+                            "municipi": "Capafonts"
+                        },
+                        {
+                            "municipi": "Castellvell del Camp"
+                        },
+                        {
+                            "municipi": "Colldejou"
+                        },
+                        {
+                            "municipi": "Duesaigües"
+                        },
+                        {
+                            "municipi": "Febró, la"
+                        },
+                        {
+                            "municipi": "Maspujols"
+                        },
+                        {
+                            "municipi": "Montbrió del Camp"
+                        },
+                        {
+                            "municipi": "Mont-roig del Camp"
+                        },
+                        {
+                            "municipi": "Prades"
+                        },
+                        {
+                            "municipi": "Pratdip"
+                        },
+                        {
+                            "municipi": "Reus"
+                        },
+                        {
+                            "municipi": "Riudecanyes"
+                        },
+                        {
+                            "municipi": "Riudecols"
+                        },
+                        {
+                            "municipi": "Riudoms"
+                        },
+                        {
+                            "municipi": "Selva del Camp, la"
+                        },
+                        {
+                            "municipi": "Vandellòs i l'Hospitalet de l'Infant"
+                        },
+                        {
+                            "municipi": "Vilanova d'Escornalbou"
+                        },
+                        {
+                            "municipi": "Vilaplana"
+                        },
+                        {
+                            "municipi": "Vinyols i els Arcs"
+                        }
+                    ],
+                    "comarca": "Baix Camp"
+                },
+                {
+                    "municipis": [
+                        {
+                            "municipi": "Aldover"
+                        },
+                        {
+                            "municipi": "Alfara de Carles"
+                        },
+                        {
+                            "municipi": "Ametlla de Mar, l'"
+                        },
+                        {
+                            "municipi": "Benifallet"
+                        },
+                        {
+                            "municipi": "Xerta"
+                        },
+                        {
+                            "municipi": "Paüls"
+                        },
+                        {
+                            "municipi": "Perelló, el"
+                        },
+                        {
+                            "municipi": "Roquetes"
+                        },
+                        {
+                            "municipi": "Tivenys"
+                        },
+                        {
+                            "municipi": "Tortosa"
+                        },
+                        {
+                            "municipi": "Deltebre"
+                        },
+                        {
+                            "municipi": "Camarles"
+                        },
+                        {
+                            "municipi": "Aldea, l'"
+                        },
+                        {
+                            "municipi": "Ampolla, l'"
+                        }
+                    ],
+                    "comarca": "Baix Ebre"
+                },
+                {
+                    "municipis": [
+                        {
+                            "municipi": "Albinyana"
+                        },
+                        {
+                            "municipi": "Arboç, l'"
+                        },
+                        {
+                            "municipi": "Banyeres del Penedès"
+                        },
+                        {
+                            "municipi": "Bellvei"
+                        },
+                        {
+                            "municipi": "Bisbal del Penedès, la"
+                        },
+                        {
+                            "municipi": "Bonastre"
+                        },
+                        {
+                            "municipi": "Calafell"
+                        },
+                        {
+                            "municipi": "Cunit"
+                        },
+                        {
+                            "municipi": "Llorenç del Penedès"
+                        },
+                        {
+                            "municipi": "Masllorenç"
+                        },
+                        {
+                            "municipi": "Montmell, el"
+                        },
+                        {
+                            "municipi": "Sant Jaume dels Domenys"
+                        },
+                        {
+                            "municipi": "Santa Oliva"
+                        },
+                        {
+                            "municipi": "Vendrell, el"
+                        }
+                    ],
+                    "comarca": "Baix Penedès"
+                },
+                {
+                    "municipis": [
+                        {
+                            "municipi": "Barberà de la Conca"
+                        },
+                        {
+                            "municipi": "Blancafort"
+                        },
+                        {
+                            "municipi": "Conesa"
+                        },
+                        {
+                            "municipi": "Espluga de Francolí, l'"
+                        },
+                        {
+                            "municipi": "Forès"
+                        },
+                        {
+                            "municipi": "Llorac"
+                        },
+                        {
+                            "municipi": "Montblanc"
+                        },
+                        {
+                            "municipi": "Passanant i Belltall"
+                        },
+                        {
+                            "municipi": "Piles, les"
+                        },
+                        {
+                            "municipi": "Pira"
+                        },
+                        {
+                            "municipi": "Rocafort de Queralt"
+                        },
+                        {
+                            "municipi": "Santa Coloma de Queralt"
+                        },
+                        {
+                            "municipi": "Pontils"
+                        },
+                        {
+                            "municipi": "Sarral"
+                        },
+                        {
+                            "municipi": "Savallà del Comtat"
+                        },
+                        {
+                            "municipi": "Senan"
+                        },
+                        {
+                            "municipi": "Solivella"
+                        },
+                        {
+                            "municipi": "Vallclara"
+                        },
+                        {
+                            "municipi": "Vallfogona de Riucorb"
+                        },
+                        {
+                            "municipi": "Vilanova de Prades"
+                        },
+                        {
+                            "municipi": "Vilaverd"
+                        },
+                        {
+                            "municipi": "Vimbodí i Poblet"
+                        }
+                    ],
+                    "comarca": "Conca de Barberà"
+                },
+                {
+                    "municipis": [
+                        {
+                            "municipi": "Ascó"
+                        },
+                        {
+                            "municipi": "Benissanet"
+                        },
+                        {
+                            "municipi": "Flix"
+                        },
+                        {
+                            "municipi": "Garcia"
+                        },
+                        {
+                            "municipi": "Ginestar"
+                        },
+                        {
+                            "municipi": "Miravet"
+                        },
+                        {
+                            "municipi": "Móra d'Ebre"
+                        },
+                        {
+                            "municipi": "Móra la Nova"
+                        },
+                        {
+                            "municipi": "Palma d'Ebre, la"
+                        },
+                        {
+                            "municipi": "Rasquera"
+                        },
+                        {
+                            "municipi": "Riba-roja d'Ebre"
+                        },
+                        {
+                            "municipi": "Tivissa"
+                        },
+                        {
+                            "municipi": "Torre de l'Espanyol, la"
+                        },
+                        {
+                            "municipi": "Vinebre"
+                        }
+                    ],
+                    "comarca": "Ribera d'Ebre"
+                },
+                {
+                    "municipis": [
+                        {
+                            "municipi": "Alcanar"
+                        },
+                        {
+                            "municipi": "Amposta"
+                        },
+                        {
+                            "municipi": "Sénia, la"
+                        },
+                        {
+                            "municipi": "Freginals"
+                        },
+                        {
+                            "municipi": "Galera, la"
+                        },
+                        {
+                            "municipi": "Godall"
+                        },
+                        {
+                            "municipi": "Mas de Barberans"
+                        },
+                        {
+                            "municipi": "Masdenverge"
+                        },
+                        {
+                            "municipi": "Ràpita, la"
+                        },
+                        {
+                            "municipi": "Santa Bàrbara"
+                        },
+                        {
+                            "municipi": "Ulldecona"
+                        },
+                        {
+                            "municipi": "Sant Jaume d'Enveja"
+                        }
+                    ],
+                    "comarca": "Montsià"
+                },
+                {
+                    "municipis": [
+                        {
+                            "municipi": "Bellmunt del Priorat"
+                        },
+                        {
+                            "municipi": "Bisbal de Falset, la"
+                        },
+                        {
+                            "municipi": "Cabacés"
+                        },
+                        {
+                            "municipi": "Capçanes"
+                        },
+                        {
+                            "municipi": "Cornudella de Montsant"
+                        },
+                        {
+                            "municipi": "Falset"
+                        },
+                        {
+                            "municipi": "Figuera, la"
+                        },
+                        {
+                            "municipi": "Gratallops"
+                        },
+                        {
+                            "municipi": "Guiamets, els"
+                        },
+                        {
+                            "municipi": "Lloar, el"
+                        },
+                        {
+                            "municipi": "Margalef"
+                        },
+                        {
+                            "municipi": "Marçà"
+                        },
+                        {
+                            "municipi": "Masroig, el"
+                        },
+                        {
+                            "municipi": "Molar, el"
+                        },
+                        {
+                            "municipi": "Morera de Montsant, la"
+                        },
+                        {
+                            "municipi": "Poboleda"
+                        },
+                        {
+                            "municipi": "Porrera"
+                        },
+                        {
+                            "municipi": "Pradell de la Teixeta"
+                        },
+                        {
+                            "municipi": "Torre de Fontaubella, la"
+                        },
+                        {
+                            "municipi": "Torroja del Priorat"
+                        },
+                        {
+                            "municipi": "Ulldemolins"
+                        },
+                        {
+                            "municipi": "Vilella Alta, la"
+                        },
+                        {
+                            "municipi": "Vilella Baixa, la"
+                        }
+                    ],
+                    "comarca": "Priorat"
+                },
+                {
+                    "municipis": [
+                        {
+                            "municipi": "Altafulla"
+                        },
+                        {
+                            "municipi": "Catllar, el"
+                        },
+                        {
+                            "municipi": "Constantí"
+                        },
+                        {
+                            "municipi": "Creixell"
+                        },
+                        {
+                            "municipi": "Morell, el"
+                        },
+                        {
+                            "municipi": "Nou de Gaià, la"
+                        },
+                        {
+                            "municipi": "Pallaresos, els"
+                        },
+                        {
+                            "municipi": "Perafort"
+                        },
+                        {
+                            "municipi": "Pobla de Mafumet, la"
+                        },
+                        {
+                            "municipi": "Pobla de Montornès, la"
+                        },
+                        {
+                            "municipi": "Renau"
+                        },
+                        {
+                            "municipi": "Riera de Gaià, la"
+                        },
+                        {
+                            "municipi": "Roda de Berà"
+                        },
+                        {
+                            "municipi": "Salomó"
+                        },
+                        {
+                            "municipi": "Secuita, la"
+                        },
+                        {
+                            "municipi": "Tarragona"
+                        },
+                        {
+                            "municipi": "Torredembarra"
+                        },
+                        {
+                            "municipi": "Vespella de Gaià"
+                        },
+                        {
+                            "municipi": "Vilallonga del Camp"
+                        },
+                        {
+                            "municipi": "Vila-seca"
+                        },
+                        {
+                            "municipi": "Salou"
+                        },
+                        {
+                            "municipi": "Canonja, la"
+                        }
+                    ],
+                    "comarca": "Tarragonès"
+                },
+                {
+                    "municipis": [
+                        {
+                            "municipi": "Arnes"
+                        },
+                        {
+                            "municipi": "Batea"
+                        },
+                        {
+                            "municipi": "Bot"
+                        },
+                        {
+                            "municipi": "Caseres"
+                        },
+                        {
+                            "municipi": "Corbera d'Ebre"
+                        },
+                        {
+                            "municipi": "Fatarella, la"
+                        },
+                        {
+                            "municipi": "Gandesa"
+                        },
+                        {
+                            "municipi": "Horta de Sant Joan"
+                        },
+                        {
+                            "municipi": "Pinell de Brai, el"
+                        },
+                        {
+                            "municipi": "Pobla de Massaluca, la"
+                        },
+                        {
+                            "municipi": "Prat de Comte"
+                        },
+                        {
+                            "municipi": "Vilalba dels Arcs"
+                        }
+                    ],
+                    "comarca": "Terra Alta"
+                }
+            ]
+        },
+        {
+            "provincia": "Barcelona",
+            " territori": [
+                {
+                    "municipis": [
+                        {
+                            "municipi": "Fogars de la Selva"
+                        }
+                    ],
+                    "comarca": "Selva"
+                },
+                {
+                    "municipis": [
+                        {
+                            "municipi": "Avinyonet del Penedès"
+                        },
+                        {
+                            "municipi": "Cabanyes, les"
+                        },
+                        {
+                            "municipi": "Castellet i la Gornal"
+                        },
+                        {
+                            "municipi": "Castellví de la Marca"
+                        },
+                        {
+                            "municipi": "Font-rubí"
+                        },
+                        {
+                            "municipi": "Gel a"
+                        },
+                        {
+                            "municipi": "Granada, la"
+                        },
+                        {
+                            "municipi": "Mediona"
+                        },
+                        {
+                            "municipi": "Olèrdola"
+                        },
+                        {
+                            "municipi": "Olesa de Bonesvalls"
+                        },
+                        {
+                            "municipi": "Pacs del Penedès"
+                        },
+                        {
+                            "municipi": "Pla del Penedès, el"
+                        },
+                        {
+                            "municipi": "Pontons"
+                        },
+                        {
+                            "municipi": "Puigdàlber"
+                        },
+                        {
+                            "municipi": "Sant Cugat Sesgarrigues"
+                        },
+                        {
+                            "municipi": "Sant Llorenç d'Hortons"
+                        },
+                        {
+                            "municipi": "Sant Martí Sarroca"
+                        },
+                        {
+                            "municipi": "Sant Pere de Riudebitlles"
+                        },
+                        {
+                            "municipi": "Sant Quintí de Mediona"
+                        },
+                        {
+                            "municipi": "Sant Sadurní d'Anoia"
+                        },
+                        {
+                            "municipi": "Santa Fe del Penedès"
+                        },
+                        {
+                            "municipi": "Santa Margar a i els Monjos"
+                        },
+                        {
+                            "municipi": "Subirats"
+                        },
+                        {
+                            "municipi": "Torrelavit"
+                        },
+                        {
+                            "municipi": "Torrelles de Foix"
+                        },
+                        {
+                            "municipi": "Vilobí del Penedès"
+                        },
+                        {
+                            "municipi": "Vilafranca del Penedès"
+                        }
+                    ],
+                    "comarca": "Alt Penedès"
+                },
+                {
+                    "municipis": [
+                        {
+                            "municipi": "Argençola"
+                        },
+                        {
+                            "municipi": "Bellprat"
+                        },
+                        {
+                            "municipi": "Bruc, el"
+                        },
+                        {
+                            "municipi": "Cabrera d'Anoia"
+                        },
+                        {
+                            "municipi": "Calaf"
+                        },
+                        {
+                            "municipi": "Calonge de Segarra"
+                        },
+                        {
+                            "municipi": "Capellades"
+                        },
+                        {
+                            "municipi": "Carme"
+                        },
+                        {
+                            "municipi": "Castellfollit de Riubregós"
+                        },
+                        {
+                            "municipi": "Castellolí"
+                        },
+                        {
+                            "municipi": "Copons"
+                        },
+                        {
+                            "municipi": "Igualada"
+                        },
+                        {
+                            "municipi": "Jorba"
+                        },
+                        {
+                            "municipi": "Llacuna, la"
+                        },
+                        {
+                            "municipi": "Masquefa"
+                        },
+                        {
+                            "municipi": "Montmaneu"
+                        },
+                        {
+                            "municipi": "Òdena"
+                        },
+                        {
+                            "municipi": "Orpí"
+                        },
+                        {
+                            "municipi": "Piera"
+                        },
+                        {
+                            "municipi": "Hostalets de Pierola, els"
+                        },
+                        {
+                            "municipi": "Pobla de Claramunt, la"
+                        },
+                        {
+                            "municipi": "Prats de Rei, els"
+                        },
+                        {
+                            "municipi": "Pujalt"
+                        },
+                        {
+                            "municipi": "Rubió"
+                        },
+                        {
+                            "municipi": "Sant Pere Sallavinera"
+                        },
+                        {
+                            "municipi": "Sant Martí de Tous"
+                        },
+                        {
+                            "municipi": "Sant Martí Sesgueioles"
+                        },
+                        {
+                            "municipi": "Santa Margar a de Montbui"
+                        },
+                        {
+                            "municipi": "Santa Maria de Miralles"
+                        },
+                        {
+                            "municipi": "Torre de Claramunt, la"
+                        },
+                        {
+                            "municipi": "Vallbona d'Anoia"
+                        },
+                        {
+                            "municipi": "Veciana"
+                        },
+                        {
+                            "municipi": "Vilanova del Camí"
+                        }
+                    ],
+                    "comarca": "Anoia"
+                },
+                {
+                    "municipis": [
+                        {
+                            "municipi": "Aguilar de Segarra"
+                        },
+                        {
+                            "municipi": "Artés"
+                        },
+                        {
+                            "municipi": "Avinyó"
+                        },
+                        {
+                            "municipi": "Balsareny"
+                        },
+                        {
+                            "municipi": "Callús"
+                        },
+                        {
+                            "municipi": "Cardona"
+                        },
+                        {
+                            "municipi": "Castellbell i el Vilar"
+                        },
+                        {
+                            "municipi": "Castellfollit del Boix"
+                        },
+                        {
+                            "municipi": "Castellgalí"
+                        },
+                        {
+                            "municipi": "Castellnou de Bages"
+                        },
+                        {
+                            "municipi": "Fonollosa"
+                        },
+                        {
+                            "municipi": "Gaià"
+                        },
+                        {
+                            "municipi": "Sant Salvador de Guardiola"
+                        },
+                        {
+                            "municipi": "Manresa"
+                        },
+                        {
+                            "municipi": "Monistrol de Montserrat"
+                        },
+                        {
+                            "municipi": "Mura"
+                        },
+                        {
+                            "municipi": "Navarcles"
+                        },
+                        {
+                            "municipi": "Navàs"
+                        },
+                        {
+                            "municipi": "Rajadell"
+                        },
+                        {
+                            "municipi": "Pont de Vilomara i Rocafort, el"
+                        },
+                        {
+                            "municipi": "Sallent"
+                        },
+                        {
+                            "municipi": "Santpedor"
+                        },
+                        {
+                            "municipi": "Sant Feliu Sasserra"
+                        },
+                        {
+                            "municipi": "Sant Fruitós de Bages"
+                        },
+                        {
+                            "municipi": "Sant Joan de Vilatorrada"
+                        },
+                        {
+                            "municipi": "Sant Mateu de Bages"
+                        },
+                        {
+                            "municipi": "Marganell"
+                        },
+                        {
+                            "municipi": "Sant Vicenç de Castellet"
+                        },
+                        {
+                            "municipi": "Súria"
+                        },
+                        {
+                            "municipi": "Talamanca"
+                        }
+                    ],
+                    "comarca": "Bages"
+                },
+                {
+                    "municipis": [
+                        {
+                            "municipi": "Abrera"
+                        },
+                        {
+                            "municipi": "Begues"
+                        },
+                        {
+                            "municipi": "Castelldefels"
+                        },
+                        {
+                            "municipi": "Castellví de Rosanes"
+                        },
+                        {
+                            "municipi": "Cervelló"
+                        },
+                        {
+                            "municipi": "Collbató"
+                        },
+                        {
+                            "municipi": "Corbera de Llobregat"
+                        },
+                        {
+                            "municipi": "Cornellà de Llobregat"
+                        },
+                        {
+                            "municipi": "Esparreguera"
+                        },
+                        {
+                            "municipi": "Esplugues de Llobregat"
+                        },
+                        {
+                            "municipi": "Gavà"
+                        },
+                        {
+                            "municipi": "Martorell"
+                        },
+                        {
+                            "municipi": "Molins de Rei"
+                        },
+                        {
+                            "municipi": "Olesa de Montserrat"
+                        },
+                        {
+                            "municipi": "Pallejà"
+                        },
+                        {
+                            "municipi": "Papiol, el"
+                        },
+                        {
+                            "municipi": "Prat de Llobregat, el"
+                        },
+                        {
+                            "municipi": "Sant Andreu de la Barca"
+                        },
+                        {
+                            "municipi": "Sant Boi de Llobregat"
+                        },
+                        {
+                            "municipi": "Sant Climent de Llobregat"
+                        },
+                        {
+                            "municipi": "Sant Esteve Sesrovires"
+                        },
+                        {
+                            "municipi": "Sant Feliu de Llobregat"
+                        },
+                        {
+                            "municipi": "Sant Joan Despí"
+                        },
+                        {
+                            "municipi": "Sant Just Desvern"
+                        },
+                        {
+                            "municipi": "Santa Coloma de Cervelló"
+                        },
+                        {
+                            "municipi": "Sant Vicenç dels Horts"
+                        },
+                        {
+                            "municipi": "Torrelles de Llobregat"
+                        },
+                        {
+                            "municipi": "Vallirana"
+                        },
+                        {
+                            "municipi": "Viladecans"
+                        },
+                        {
+                            "municipi": "Palma de Cervelló, la"
+                        }
+                    ],
+                    "comarca": "Baix Llobregat"
+                },
+                {
+                    "municipis": [
+                        {
+                            "municipi": "Badalona"
+                        },
+                        {
+                            "municipi": "Barcelona"
+                        },
+                        {
+                            "municipi": "Hospitalet de Llobregat, l'"
+                        },
+                        {
+                            "municipi": "Sant Adrià de Besòs"
+                        },
+                        {
+                            "municipi": "Santa Coloma de Gramenet"
+                        }
+                    ],
+                    "comarca": "Barcelonès"
+                },
+                {
+                    "municipis": [
+                        {
+                            "municipi": "Avià"
+                        },
+                        {
+                            "municipi": "Bagà"
+                        },
+                        {
+                            "municipi": "Berga"
+                        },
+                        {
+                            "municipi": "Borredà"
+                        },
+                        {
+                            "municipi": "Capolat"
+                        },
+                        {
+                            "municipi": "Casserres"
+                        },
+                        {
+                            "municipi": "Castellar del Riu"
+                        },
+                        {
+                            "municipi": "Castellar de n'Hug"
+                        },
+                        {
+                            "municipi": "Castell de l'Areny"
+                        },
+                        {
+                            "municipi": "Espunyola, l'"
+                        },
+                        {
+                            "municipi": "Fígols"
+                        },
+                        {
+                            "municipi": "Gironella"
+                        },
+                        {
+                            "municipi": "Gisclareny"
+                        },
+                        {
+                            "municipi": "Guardiola de Berguedà"
+                        },
+                        {
+                            "municipi": "Montclar"
+                        },
+                        {
+                            "municipi": "Montmajor"
+                        },
+                        {
+                            "municipi": "Nou de Berguedà, la"
+                        },
+                        {
+                            "municipi": "Olvan"
+                        },
+                        {
+                            "municipi": "Pobla de Lillet, la"
+                        },
+                        {
+                            "municipi": "Puig-reig"
+                        },
+                        {
+                            "municipi": "Quar, la"
+                        },
+                        {
+                            "municipi": "Sagàs"
+                        },
+                        {
+                            "municipi": "Saldes"
+                        },
+                        {
+                            "municipi": "Sant Jaume de Frontanyà"
+                        },
+                        {
+                            "municipi": "Santa Maria de Merlès"
+                        },
+                        {
+                            "municipi": "Cercs"
+                        },
+                        {
+                            "municipi": "Vallcebre"
+                        },
+                        {
+                            "municipi": "Vilada"
+                        },
+                        {
+                            "municipi": "Viver i Serrateix"
+                        },
+                        {
+                            "municipi": "Sant Julià de Cerdanyola"
+                        },
+                        {
+                            "municipi": "Gósol"
+                        }
+                    ],
+                    "comarca": "Berguedà"
+                },
+                {
+                    "municipis": [
+                        {
+                            "municipi": "Canyelles"
+                        },
+                        {
+                            "municipi": "Cubelles"
+                        },
+                        {
+                            "municipi": "Olivella"
+                        },
+                        {
+                            "municipi": "Sant Pere de Ribes"
+                        },
+                        {
+                            "municipi": "Sitges"
+                        },
+                        {
+                            "municipi": "Vilanova i la Geltrú"
+                        }
+                    ],
+                    "comarca": "Garraf"
+                },
+                {
+                    "municipis": [
+                        {
+                            "municipi": "Alella"
+                        },
+                        {
+                            "municipi": "Arenys de Mar"
+                        },
+                        {
+                            "municipi": "Arenys de Munt"
+                        },
+                        {
+                            "municipi": "Argentona"
+                        },
+                        {
+                            "municipi": "Cabrera de Mar"
+                        },
+                        {
+                            "municipi": "Cabrils"
+                        },
+                        {
+                            "municipi": "Caldes d'Estrac"
+                        },
+                        {
+                            "municipi": "Calella"
+                        },
+                        {
+                            "municipi": "Canet de Mar"
+                        },
+                        {
+                            "municipi": "Dosrius"
+                        },
+                        {
+                            "municipi": "Malgrat de Mar"
+                        },
+                        {
+                            "municipi": "Masnou, el"
+                        },
+                        {
+                            "municipi": "Mataró"
+                        },
+                        {
+                            "municipi": "Montgat"
+                        },
+                        {
+                            "municipi": "Òrrius"
+                        },
+                        {
+                            "municipi": "Palafolls"
+                        },
+                        {
+                            "municipi": "Pineda de Mar"
+                        },
+                        {
+                            "municipi": "Premià de Mar"
+                        },
+                        {
+                            "municipi": "Sant Iscle de Vallalta"
+                        },
+                        {
+                            "municipi": "Sant Andreu de Llavaneres"
+                        },
+                        {
+                            "municipi": "Sant Cebrià de Vallalta"
+                        },
+                        {
+                            "municipi": "Vilassar de Dalt"
+                        },
+                        {
+                            "municipi": "Vilassar de Mar"
+                        },
+                        {
+                            "municipi": "Premià de Dalt"
+                        },
+                        {
+                            "municipi": "Sant Pol de Mar"
+                        },
+                        {
+                            "municipi": "Santa Susanna"
+                        },
+                        {
+                            "municipi": "Sant Vicenç de Montalt"
+                        },
+                        {
+                            "municipi": "Teià"
+                        },
+                        {
+                            "municipi": "Tiana"
+                        },
+                        {
+                            "municipi": "Tordera"
+                        }
+                    ],
+                    "comarca": "Maresme"
+                },
+                {
+                    "municipis": [
+                        {
+                            "municipi": "Calders"
+                        },
+                        {
+                            "municipi": "Castellcir"
+                        },
+                        {
+                            "municipi": "Castellterçol"
+                        },
+                        {
+                            "municipi": "Collsuspina"
+                        },
+                        {
+                            "municipi": "Estany, l'"
+                        },
+                        {
+                            "municipi": "Granera"
+                        },
+                        {
+                            "municipi": "Monistrol de Calders"
+                        },
+                        {
+                            "municipi": "Moià"
+                        },
+                        {
+                            "municipi": "Sant Quirze Safaja"
+                        },
+                        {
+                            "municipi": "Santa Maria d'Oló"
+                        }
+                    ],
+                    "comarca": "Moianès"
+                },
+                {
+                    "municipis": [
+                        {
+                            "municipi": "Alpens"
+                        },
+                        {
+                            "municipi": "Balenyà"
+                        },
+                        {
+                            "municipi": "Brull, el"
+                        },
+                        {
+                            "municipi": "Calldetenes"
+                        },
+                        {
+                            "municipi": "Centelles"
+                        },
+                        {
+                            "municipi": "Folgueroles"
+                        },
+                        {
+                            "municipi": "Gurb"
+                        },
+                        {
+                            "municipi": "Lluçà"
+                        },
+                        {
+                            "municipi": "Malla"
+                        },
+                        {
+                            "municipi": "Manlleu"
+                        },
+                        {
+                            "municipi": "Masies de Roda, les"
+                        },
+                        {
+                            "municipi": "Masies de Voltregà, les"
+                        },
+                        {
+                            "municipi": "Muntanyola"
+                        },
+                        {
+                            "municipi": "Montesquiu"
+                        },
+                        {
+                            "municipi": "Olost"
+                        },
+                        {
+                            "municipi": "Orís"
+                        },
+                        {
+                            "municipi": "Oristà"
+                        },
+                        {
+                            "municipi": "Perafita"
+                        },
+                        {
+                            "municipi": "Prats de Lluçanès"
+                        },
+                        {
+                            "municipi": "Roda de Ter"
+                        },
+                        {
+                            "municipi": "Sant Agustí de Lluçanès"
+                        },
+                        {
+                            "municipi": "Sant Bartomeu del Grau"
+                        },
+                        {
+                            "municipi": "Sant Boi de Lluçanès"
+                        },
+                        {
+                            "municipi": "Sant Hipòlit de Voltregà"
+                        },
+                        {
+                            "municipi": "Sant Julià de Vilatorta"
+                        },
+                        {
+                            "municipi": "Sant Martí de Centelles"
+                        },
+                        {
+                            "municipi": "Sant Martí d'Albars"
+                        },
+                        {
+                            "municipi": "Sant Pere de Torelló"
+                        },
+                        {
+                            "municipi": "Sant Quirze de Besora"
+                        },
+                        {
+                            "municipi": "Sant Sadurní d'Osormort"
+                        },
+                        {
+                            "municipi": "Santa Cecília de Voltregà"
+                        },
+                        {
+                            "municipi": "Santa Eugènia de Berga"
+                        },
+                        {
+                            "municipi": "Santa Eulàlia de Riuprimer"
+                        },
+                        {
+                            "municipi": "Santa Maria de Besora"
+                        },
+                        {
+                            "municipi": "Esquirol, l'"
+                        },
+                        {
+                            "municipi": "Sant Vicenç de Torelló"
+                        },
+                        {
+                            "municipi": "Seva"
+                        },
+                        {
+                            "municipi": "Sobremunt"
+                        },
+                        {
+                            "municipi": "Sora"
+                        },
+                        {
+                            "municipi": "Tavèrnoles"
+                        },
+                        {
+                            "municipi": "Taradell"
+                        },
+                        {
+                            "municipi": "Tavertet"
+                        },
+                        {
+                            "municipi": "Tona"
+                        },
+                        {
+                            "municipi": "Torelló"
+                        },
+                        {
+                            "municipi": "Vic"
+                        },
+                        {
+                            "municipi": "Vilanova de Sau"
+                        },
+                        {
+                            "municipi": "Rupit i Pruit"
+                        }
+                    ],
+                    "comarca": "Osona"
+                },
+                {
+                    "municipis": [
+                        {
+                            "municipi": "Castellar del Vallès"
+                        },
+                        {
+                            "municipi": "Castellbisbal"
+                        },
+                        {
+                            "municipi": "Gallifa"
+                        },
+                        {
+                            "municipi": "Matadepera"
+                        },
+                        {
+                            "municipi": "Montcada i Reixac"
+                        },
+                        {
+                            "municipi": "Palau-solità i Plegamans"
+                        },
+                        {
+                            "municipi": "Polinyà"
+                        },
+                        {
+                            "municipi": "Rellinars"
+                        },
+                        {
+                            "municipi": "Ripollet"
+                        },
+                        {
+                            "municipi": "Rubí"
+                        },
+                        {
+                            "municipi": "Sabadell"
+                        },
+                        {
+                            "municipi": "Sant Cugat del Vallès"
+                        },
+                        {
+                            "municipi": "Sant Llorenç Savall"
+                        },
+                        {
+                            "municipi": "Sant Quirze del Vallès"
+                        },
+                        {
+                            "municipi": "Barberà del Vallès"
+                        },
+                        {
+                            "municipi": "Santa Perpètua de Mogoda"
+                        },
+                        {
+                            "municipi": "Cerdanyola del Vallès"
+                        },
+                        {
+                            "municipi": "Sentmenat"
+                        },
+                        {
+                            "municipi": "Terrassa"
+                        },
+                        {
+                            "municipi": "Ullastrell"
+                        },
+                        {
+                            "municipi": "Vacarisses"
+                        },
+                        {
+                            "municipi": "Viladecavalls"
+                        },
+                        {
+                            "municipi": "Badia del Vallès"
+                        }
+                    ],
+                    "comarca": "Vallès Occ ental"
+                },
+                {
+                    "municipis": [
+                        {
+                            "municipi": "Ametlla del Vallès, l'"
+                        },
+                        {
+                            "municipi": "Aiguafreda"
+                        },
+                        {
+                            "municipi": "Bigues i Riells del Fai"
+                        },
+                        {
+                            "municipi": "Caldes de Montbui"
+                        },
+                        {
+                            "municipi": "Campins"
+                        },
+                        {
+                            "municipi": "Canovelles"
+                        },
+                        {
+                            "municipi": "Cànoves i Samalús"
+                        },
+                        {
+                            "municipi": "Cardedeu"
+                        },
+                        {
+                            "municipi": "Fogars de Montclús"
+                        },
+                        {
+                            "municipi": "Franqueses del Vallès, les"
+                        },
+                        {
+                            "municipi": "Garriga, la"
+                        },
+                        {
+                            "municipi": "Granollers"
+                        },
+                        {
+                            "municipi": "Gualba"
+                        },
+                        {
+                            "municipi": "Llagosta, la"
+                        },
+                        {
+                            "municipi": "Llinars del Vallès"
+                        },
+                        {
+                            "municipi": "Lliçà d'Amunt"
+                        },
+                        {
+                            "municipi": "Lliçà de Vall"
+                        },
+                        {
+                            "municipi": "Martorelles"
+                        },
+                        {
+                            "municipi": "Mollet del Vallès"
+                        },
+                        {
+                            "municipi": "Figaró-Montmany"
+                        },
+                        {
+                            "municipi": "Montmeló"
+                        },
+                        {
+                            "municipi": "Montornès del Vallès"
+                        },
+                        {
+                            "municipi": "Montseny"
+                        },
+                        {
+                            "municipi": "Parets del Vallès"
+                        },
+                        {
+                            "municipi": "Roca del Vallès, la"
+                        },
+                        {
+                            "municipi": "Sant Antoni de Vilamajor"
+                        },
+                        {
+                            "municipi": "Sant Celoni"
+                        },
+                        {
+                            "municipi": "Sant Esteve de Palautordera"
+                        },
+                        {
+                            "municipi": "Sant Fost de Campsentelles"
+                        },
+                        {
+                            "municipi": "Sant Feliu de Codines"
+                        },
+                        {
+                            "municipi": "Sant Pere de Vilamajor"
+                        },
+                        {
+                            "municipi": "Santa Eulàlia de Ronçana"
+                        },
+                        {
+                            "municipi": "Santa Maria de Martorelles"
+                        },
+                        {
+                            "municipi": "Santa Maria de Palautordera"
+                        },
+                        {
+                            "municipi": "Tagamanent"
+                        },
+                        {
+                            "municipi": "Vallgorguina"
+                        },
+                        {
+                            "municipi": "Vallromanes"
+                        },
+                        {
+                            "municipi": "Vilalba Sasserra"
+                        },
+                        {
+                            "municipi": "Vilanova del Vallès"
+                        }
+                    ],
+                    "comarca": "Vallès Oriental"
+                }
+            ]
+        },
+        {
+            "provincia": "Girona",
+            " territori": [
+                {
+                    "municipis": [
+                        {
+                            "municipi": "Agullana"
+                        },
+                        {
+                            "municipi": "Albanyà"
+                        },
+                        {
+                            "municipi": "Far d'Empordà, el"
+                        },
+                        {
+                            "municipi": "Armentera, l'"
+                        },
+                        {
+                            "municipi": "Avinyonet de Puigventós"
+                        },
+                        {
+                            "municipi": "Vajol, la"
+                        },
+                        {
+                            "municipi": "Bàscara"
+                        },
+                        {
+                            "municipi": "Borrassà"
+                        },
+                        {
+                            "municipi": "Boadella i les Escaules"
+                        },
+                        {
+                            "municipi": "Cabanes"
+                        },
+                        {
+                            "municipi": "Cabanelles"
+                        },
+                        {
+                            "municipi": "Cadaqués"
+                        },
+                        {
+                            "municipi": "Cantallops"
+                        },
+                        {
+                            "municipi": "Capmany"
+                        },
+                        {
+                            "municipi": "Castelló d'Empúries"
+                        },
+                        {
+                            "municipi": "Cistella"
+                        },
+                        {
+                            "municipi": "Siurana"
+                        },
+                        {
+                            "municipi": "Colera"
+                        },
+                        {
+                            "municipi": "Darnius"
+                        },
+                        {
+                            "municipi": "Escala, l'"
+                        },
+                        {
+                            "municipi": "Espolla"
+                        },
+                        {
+                            "municipi": "Figueres"
+                        },
+                        {
+                            "municipi": "Fortià"
+                        },
+                        {
+                            "municipi": "Garrigàs"
+                        },
+                        {
+                            "municipi": "Garriguella"
+                        },
+                        {
+                            "municipi": "Jonquera, la"
+                        },
+                        {
+                            "municipi": "Lladó"
+                        },
+                        {
+                            "municipi": "Llançà"
+                        },
+                        {
+                            "municipi": "Llers"
+                        },
+                        {
+                            "municipi": "Masarac"
+                        },
+                        {
+                            "municipi": "Maçanet de Cabrenys"
+                        },
+                        {
+                            "municipi": "Mollet de Peralada"
+                        },
+                        {
+                            "municipi": "Navata"
+                        },
+                        {
+                            "municipi": "Ordis"
+                        },
+                        {
+                            "municipi": "Palau de Santa Eulàlia"
+                        },
+                        {
+                            "municipi": "Palau-saverdera"
+                        },
+                        {
+                            "municipi": "Pau"
+                        },
+                        {
+                            "municipi": "Pedret i Marzà"
+                        },
+                        {
+                            "municipi": "Peralada"
+                        },
+                        {
+                            "municipi": "Pont de Molins"
+                        },
+                        {
+                            "municipi": "Pontós"
+                        },
+                        {
+                            "municipi": "Portbou"
+                        },
+                        {
+                            "municipi": "Port de la Selva, el"
+                        },
+                        {
+                            "municipi": "Rabós"
+                        },
+                        {
+                            "municipi": "Riumors"
+                        },
+                        {
+                            "municipi": "Roses"
+                        },
+                        {
+                            "municipi": "Sant Climent Sescebes"
+                        },
+                        {
+                            "municipi": "Sant Llorenç de la Muga"
+                        },
+                        {
+                            "municipi": "Sant Miquel de Fluvià"
+                        },
+                        {
+                            "municipi": "Sant Mori"
+                        },
+                        {
+                            "municipi": "Sant Pere Pescador"
+                        },
+                        {
+                            "municipi": "Santa Llogaia d'Àlguema"
+                        },
+                        {
+                            "municipi": "Saus, Camallera i Llampaies"
+                        },
+                        {
+                            "municipi": "Selva de Mar, la"
+                        },
+                        {
+                            "municipi": "Terrades"
+                        },
+                        {
+                            "municipi": "Torroella de Fluvià"
+                        },
+                        {
+                            "municipi": "Ventalló"
+                        },
+                        {
+                            "municipi": "Vilabertran"
+                        },
+                        {
+                            "municipi": "Viladamat"
+                        },
+                        {
+                            "municipi": "Vilafant"
+                        },
+                        {
+                            "municipi": "Vilaür"
+                        },
+                        {
+                            "municipi": "Vilajuïga"
+                        },
+                        {
+                            "municipi": "Vilamacolum"
+                        },
+                        {
+                            "municipi": "Vilamalla"
+                        },
+                        {
+                            "municipi": "Vilamaniscle"
+                        },
+                        {
+                            "municipi": "Vilanant"
+                        },
+                        {
+                            "municipi": "Vila-sacra"
+                        },
+                        {
+                            "municipi": "Biure"
+                        }
+                    ],
+                    "comarca": "Alt Empordà"
+                },
+                {
+                    "municipis": [
+                        {
+                            "municipi": "Albons"
+                        },
+                        {
+                            "municipi": "Begur"
+                        },
+                        {
+                            "municipi": "Bellcaire d'Empordà"
+                        },
+                        {
+                            "municipi": "Bisbal d'Empordà, la"
+                        },
+                        {
+                            "municipi": "Calonge i Sant Antoni"
+                        },
+                        {
+                            "municipi": "Castell-Platja d'Aro"
+                        },
+                        {
+                            "municipi": "Colomers"
+                        },
+                        {
+                            "municipi": "Corçà"
+                        },
+                        {
+                            "municipi": "Foixà"
+                        },
+                        {
+                            "municipi": "Fontanilles"
+                        },
+                        {
+                            "municipi": "Garrigoles"
+                        },
+                        {
+                            "municipi": "Gualta"
+                        },
+                        {
+                            "municipi": "Jafre"
+                        },
+                        {
+                            "municipi": "Mont-ras"
+                        },
+                        {
+                            "municipi": "Palafrugell"
+                        },
+                        {
+                            "municipi": "Palamós"
+                        },
+                        {
+                            "municipi": "Palau-sator"
+                        },
+                        {
+                            "municipi": "Pals"
+                        },
+                        {
+                            "municipi": "Parlavà"
+                        },
+                        {
+                            "municipi": "Pera, la"
+                        },
+                        {
+                            "municipi": "Regencós"
+                        },
+                        {
+                            "municipi": "Rupià"
+                        },
+                        {
+                            "municipi": "Sant Feliu de Guíxols"
+                        },
+                        {
+                            "municipi": "Santa Cristina d'Aro"
+                        },
+                        {
+                            "municipi": "Serra de Daró"
+                        },
+                        {
+                            "municipi": "Tallada d'Empordà, la"
+                        },
+                        {
+                            "municipi": "Torrent"
+                        },
+                        {
+                            "municipi": "Torroella de Montgrí"
+                        },
+                        {
+                            "municipi": "Ultramort"
+                        },
+                        {
+                            "municipi": "Ullà"
+                        },
+                        {
+                            "municipi": "Ullastret"
+                        },
+                        {
+                            "municipi": "Vall-llobrega"
+                        },
+                        {
+                            "municipi": "Verges"
+                        },
+                        {
+                            "municipi": "Vilopriu"
+                        },
+                        {
+                            "municipi": "Cruïlles, Monells i Sant Sadurní de l'Heura"
+                        },
+                        {
+                            "municipi": "Forallac"
+                        }
+                    ],
+                    "comarca": "Baix Empordà"
+                },
+                {
+                    "municipis": [
+                        {
+                            "municipi": "Argelaguer"
+                        },
+                        {
+                            "municipi": "Besalú"
+                        },
+                        {
+                            "municipi": "Beuda"
+                        },
+                        {
+                            "municipi": "Castellfollit de la Roca"
+                        },
+                        {
+                            "municipi": "Maià de Montcal"
+                        },
+                        {
+                            "municipi": "Mieres"
+                        },
+                        {
+                            "municipi": "Montagut i Oix"
+                        },
+                        {
+                            "municipi": "Olot"
+                        },
+                        {
+                            "municipi": "Planes d'Hostoles, les"
+                        },
+                        {
+                            "municipi": "Preses, les"
+                        },
+                        {
+                            "municipi": "Riudaura"
+                        },
+                        {
+                            "municipi": "Sales de Llierca"
+                        },
+                        {
+                            "municipi": "Sant Feliu de Pallerols"
+                        },
+                        {
+                            "municipi": "Sant Ferriol"
+                        },
+                        {
+                            "municipi": "Sant Jaume de Llierca"
+                        },
+                        {
+                            "municipi": "Sant Aniol de Finestres"
+                        },
+                        {
+                            "municipi": "Santa Pau"
+                        },
+                        {
+                            "municipi": "Sant Joan les Fonts"
+                        },
+                        {
+                            "municipi": "Tortellà"
+                        },
+                        {
+                            "municipi": "Vall d'en Bas, la"
+                        },
+                        {
+                            "municipi": "Vall de Bianya, la"
+                        }
+                    ],
+                    "comarca": "Garrotxa"
+                },
+                {
+                    "municipis": [
+                        {
+                            "municipi": "Aiguaviva"
+                        },
+                        {
+                            "municipi": "Bescanó"
+                        },
+                        {
+                            "municipi": "Bordils"
+                        },
+                        {
+                            "municipi": "Campllong"
+                        },
+                        {
+                            "municipi": "Canet d'Adri"
+                        },
+                        {
+                            "municipi": "Cassà de la Selva"
+                        },
+                        {
+                            "municipi": "Celrà"
+                        },
+                        {
+                            "municipi": "Cervià de Ter"
+                        },
+                        {
+                            "municipi": "Flaçà"
+                        },
+                        {
+                            "municipi": "Fornells de la Selva"
+                        },
+                        {
+                            "municipi": "Girona"
+                        },
+                        {
+                            "municipi": "Juià"
+                        },
+                        {
+                            "municipi": "Llagostera"
+                        },
+                        {
+                            "municipi": "Llambilles"
+                        },
+                        {
+                            "municipi": "Madremanya"
+                        },
+                        {
+                            "municipi": "Quart"
+                        },
+                        {
+                            "municipi": "Salt"
+                        },
+                        {
+                            "municipi": "Sant Andreu Salou"
+                        },
+                        {
+                            "municipi": "Sant Gregori"
+                        },
+                        {
+                            "municipi": "Sant Jordi Desvalls"
+                        },
+                        {
+                            "municipi": "Sant Joan de Mollet"
+                        },
+                        {
+                            "municipi": "Sant Julià de Ramis"
+                        },
+                        {
+                            "municipi": "Sant Martí de Llémena"
+                        },
+                        {
+                            "municipi": "Sant Martí Vell"
+                        },
+                        {
+                            "municipi": "Sarrià de Ter"
+                        },
+                        {
+                            "municipi": "Vilablareix"
+                        },
+                        {
+                            "municipi": "Viladasens"
+                        }
+                    ],
+                    "comarca": "Gironès"
+                },
+                {
+                    "municipis": [
+                        {
+                            "municipi": "Banyoles"
+                        },
+                        {
+                            "municipi": "Camós"
+                        },
+                        {
+                            "municipi": "Cornellà del Terri"
+                        },
+                        {
+                            "municipi": "Crespià"
+                        },
+                        {
+                            "municipi": "Esponellà"
+                        },
+                        {
+                            "municipi": "Fontcoberta"
+                        },
+                        {
+                            "municipi": "Palol de Revardit"
+                        },
+                        {
+                            "municipi": "Porqueres"
+                        },
+                        {
+                            "municipi": "Sant Miquel de Campmajor"
+                        },
+                        {
+                            "municipi": "Serinyà"
+                        },
+                        {
+                            "municipi": "Vilademuls"
+                        }
+                    ],
+                    "comarca": "Pla de l'Estany"
+                },
+                {
+                    "municipis": [
+                        {
+                            "municipi": "Campdevànol"
+                        },
+                        {
+                            "municipi": "Campelles"
+                        },
+                        {
+                            "municipi": "Camprodon"
+                        },
+                        {
+                            "municipi": "Queralbs"
+                        },
+                        {
+                            "municipi": "Gombrèn"
+                        },
+                        {
+                            "municipi": "Llanars"
+                        },
+                        {
+                            "municipi": "Llosses, les"
+                        },
+                        {
+                            "municipi": "Molló"
+                        },
+                        {
+                            "municipi": "Ogassa"
+                        },
+                        {
+                            "municipi": "Pardines"
+                        },
+                        {
+                            "municipi": "Planoles"
+                        },
+                        {
+                            "municipi": "Ribes de Freser"
+                        },
+                        {
+                            "municipi": "Ripoll"
+                        },
+                        {
+                            "municipi": "Sant Joan de les Abadesses"
+                        },
+                        {
+                            "municipi": "Vallfogona de Ripollès"
+                        },
+                        {
+                            "municipi": "Sant Pau de Segúries"
+                        },
+                        {
+                            "municipi": "Setcases"
+                        },
+                        {
+                            "municipi": "Toses"
+                        },
+                        {
+                            "municipi": "Vilallonga de Ter"
+                        }
+                    ],
+                    "comarca": "Ripollès"
+                },
+                {
+                    "municipis": [
+                        {
+                            "municipi": "Alp"
+                        },
+                        {
+                            "municipi": "Bolvir"
+                        },
+                        {
+                            "municipi": "Das"
+                        },
+                        {
+                            "municipi": "Fontanals de Cerdanya"
+                        },
+                        {
+                            "municipi": "Ger"
+                        },
+                        {
+                            "municipi": "Guils de Cerdanya"
+                        },
+                        {
+                            "municipi": "Isòvol"
+                        },
+                        {
+                            "municipi": "Llívia"
+                        },
+                        {
+                            "municipi": "Meranges"
+                        },
+                        {
+                            "municipi": "Puigcerdà"
+                        },
+                        {
+                            "municipi": "Urús"
+                        },
+                        {
+                            "municipi": "Bellver de Cerdanya"
+                        },
+                        {
+                            "municipi": "Lles de Cerdanya"
+                        },
+                        {
+                            "municipi": "Montellà i Martinet"
+                        },
+                        {
+                            "municipi": "Prats i Sansor"
+                        },
+                        {
+                            "municipi": "Prullans"
+                        },
+                        {
+                            "municipi": "Riu de Cerdanya"
+                        }
+                    ],
+                    "comarca": "Cerdanya"
+                },
+                {
+                    "municipis": [
+                        {
+                            "municipi": "Amer"
+                        },
+                        {
+                            "municipi": "Anglès"
+                        },
+                        {
+                            "municipi": "Arbúcies"
+                        },
+                        {
+                            "municipi": "Blanes"
+                        },
+                        {
+                            "municipi": "Breda"
+                        },
+                        {
+                            "municipi": "Brunyola i Sant Martí Sapresa"
+                        },
+                        {
+                            "municipi": "Caldes de Malavella"
+                        },
+                        {
+                            "municipi": "Hostalric"
+                        },
+                        {
+                            "municipi": "Lloret de Mar"
+                        },
+                        {
+                            "municipi": "Massanes"
+                        },
+                        {
+                            "municipi": "Maçanet de la Selva"
+                        },
+                        {
+                            "municipi": "Osor"
+                        },
+                        {
+                            "municipi": "Riells i Viabrea"
+                        },
+                        {
+                            "municipi": "Riudarenes"
+                        },
+                        {
+                            "municipi": "Riudellots de la Selva"
+                        },
+                        {
+                            "municipi": "Sant Feliu de Buixalleu"
+                        },
+                        {
+                            "municipi": "Sant Hilari Sacalm"
+                        },
+                        {
+                            "municipi": "Santa Coloma de Farners"
+                        },
+                        {
+                            "municipi": "Cellera de Ter, la"
+                        },
+                        {
+                            "municipi": "Sils"
+                        },
+                        {
+                            "municipi": "Susqueda"
+                        },
+                        {
+                            "municipi": "Tossa de Mar"
+                        },
+                        {
+                            "municipi": "V reres"
+                        },
+                        {
+                            "municipi": "Vilobí d'Onyar"
+                        },
+                        {
+                            "municipi": "Sant Julià del Llor i Bonmatí"
+                        }
+                    ],
+                    "comarca": "Selva"
+                },
+                {
+                    "municipis": [
+                        {
+                            "municipi": "Espinelves"
+                        },
+                        {
+                            "municipi": "Vidrà"
+                        },
+                        {
+                            "municipi": "Viladrau"
+                        }
+                    ],
+                    "comarca": "Osona"
+                }
+            ]
+        },
+        {
+            "provincia": "Lleida",
+            " territori": [
+                {
+                    "municipis": [
+                        {
+                            "municipi": "Alàs i Cerc"
+                        },
+                        {
+                            "municipi": "Pont de Bar, el"
+                        },
+                        {
+                            "municipi": "Arsèguel"
+                        },
+                        {
+                            "municipi": "Bassella"
+                        },
+                        {
+                            "municipi": "Cabó"
+                        },
+                        {
+                            "municipi": "Cava"
+                        },
+                        {
+                            "municipi": "Coll de Nargó"
+                        },
+                        {
+                            "municipi": "Estamariu"
+                        },
+                        {
+                            "municipi": "Montferrer i Castellbò"
+                        },
+                        {
+                            "municipi": "Oliana"
+                        },
+                        {
+                            "municipi": "Organyà"
+                        },
+                        {
+                            "municipi": "Peramola"
+                        },
+                        {
+                            "municipi": "Ribera d'Urgellet"
+                        },
+                        {
+                            "municipi": "Seu d'Urgell, la"
+                        },
+                        {
+                            "municipi": "Valls de Valira, les"
+                        },
+                        {
+                            "municipi": "Valls d'Aguilar, les"
+                        },
+                        {
+                            "municipi": "Fígols i Alinyà"
+                        },
+                        {
+                            "municipi": "Vansa i Fórnols, la"
+                        },
+                        {
+                            "municipi": "Josa i Tuixén"
+                        }
+                    ],
+                    "comarca": "Alt Urgell"
+                },
+                {
+                    "municipis": [
+                        {
+                            "municipi": "Vall de Boí, la"
+                        },
+                        {
+                            "municipi": "Pont de Suert, el"
+                        },
+                        {
+                            "municipi": "Vilaller"
+                        }
+                    ],
+                    "comarca": "Alta Ribagorça"
+                },
+                {
+                    "municipis": [
+                        {
+                            "municipi": "Naut Aran"
+                        },
+                        {
+                            "municipi": "Arres"
+                        },
+                        {
+                            "municipi": "Bausen"
+                        },
+                        {
+                            "municipi": "Bòrdes, Es"
+                        },
+                        {
+                            "municipi": "Bossòst"
+                        },
+                        {
+                            "municipi": "Canejan"
+                        },
+                        {
+                            "municipi": "Les"
+                        },
+                        {
+                            "municipi": "Vielha e Mijaran"
+                        },
+                        {
+                            "municipi": "Vilamòs"
+                        }
+                    ],
+                    "comarca": "Aran"
+                },
+                {
+                    "municipis": [
+                        {
+                            "municipi": "Albagés, l'"
+                        },
+                        {
+                            "municipi": "Albi, l'"
+                        },
+                        {
+                            "municipi": "Arbeca"
+                        },
+                        {
+                            "municipi": "Bovera"
+                        },
+                        {
+                            "municipi": "Borges Blanques, les"
+                        },
+                        {
+                            "municipi": "Castelldans"
+                        },
+                        {
+                            "municipi": "Cervià de les Garrigues"
+                        },
+                        {
+                            "municipi": "Cogul, el"
+                        },
+                        {
+                            "municipi": "Espluga Calba, l'"
+                        },
+                        {
+                            "municipi": "Floresta, la"
+                        },
+                        {
+                            "municipi": "Fulleda"
+                        },
+                        {
+                            "municipi": "Granadella, la"
+                        },
+                        {
+                            "municipi": "Granyena de les Garrigues"
+                        },
+                        {
+                            "municipi": "Juncosa"
+                        },
+                        {
+                            "municipi": "Juneda"
+                        },
+                        {
+                            "municipi": "Omellons, els"
+                        },
+                        {
+                            "municipi": "Pobla de Cérvoles, la"
+                        },
+                        {
+                            "municipi": "Bellaguarda"
+                        },
+                        {
+                            "municipi": "Puiggròs"
+                        },
+                        {
+                            "municipi": "Soleràs, el"
+                        },
+                        {
+                            "municipi": "Tarrés"
+                        },
+                        {
+                            "municipi": "Torms, els"
+                        },
+                        {
+                            "municipi": "Vilosell, el"
+                        },
+                        {
+                            "municipi": "Vinaixa"
+                        }
+                    ],
+                    "comarca": "Garrigues"
+                },
+                {
+                    "municipis": [
+                        {
+                            "municipi": "Àger"
+                        },
+                        {
+                            "municipi": "Albesa"
+                        },
+                        {
+                            "municipi": "Algerri"
+                        },
+                        {
+                            "municipi": "Alòs de Balaguer"
+                        },
+                        {
+                            "municipi": "Artesa de Segre"
+                        },
+                        {
+                            "municipi": "Sentiu de Sió, la"
+                        },
+                        {
+                            "municipi": "Avellanes i Santa Linya, les"
+                        },
+                        {
+                            "municipi": "Balaguer"
+                        },
+                        {
+                            "municipi": "Baronia de Rialb, la"
+                        },
+                        {
+                            "municipi": "Bellcaire d'Urgell"
+                        },
+                        {
+                            "municipi": "Bellmunt d'Urgell"
+                        },
+                        {
+                            "municipi": "Cabanabona"
+                        },
+                        {
+                            "municipi": "Camarasa"
+                        },
+                        {
+                            "municipi": "Castelló de Farfanya"
+                        },
+                        {
+                            "municipi": "Cubells"
+                        },
+                        {
+                            "municipi": "Foradada"
+                        },
+                        {
+                            "municipi": "Ivars de Noguera"
+                        },
+                        {
+                            "municipi": "Menàrguens"
+                        },
+                        {
+                            "municipi": "Montgai"
+                        },
+                        {
+                            "municipi": "Oliola"
+                        },
+                        {
+                            "municipi": "Os de Balaguer"
+                        },
+                        {
+                            "municipi": "Penelles"
+                        },
+                        {
+                            "municipi": "Ponts"
+                        },
+                        {
+                            "municipi": "Preixens"
+                        },
+                        {
+                            "municipi": "Térmens"
+                        },
+                        {
+                            "municipi": "Tiurana"
+                        },
+                        {
+                            "municipi": "Torrelameu"
+                        },
+                        {
+                            "municipi": "Vallfogona de Balaguer"
+                        },
+                        {
+                            "municipi": "Vilanova de l'Aguda"
+                        },
+                        {
+                            "municipi": "Vilanova de Meià"
+                        }
+                    ],
+                    "comarca": "Noguera"
+                },
+                {
+                    "municipis": [
+                        {
+                            "municipi": "Abella de la Conca"
+                        },
+                        {
+                            "municipi": "Gavet de la Conca"
+                        },
+                        {
+                            "municipi": "Isona i Conca Dellà"
+                        },
+                        {
+                            "municipi": "Llimiana"
+                        },
+                        {
+                            "municipi": "Conca de Dalt"
+                        },
+                        {
+                            "municipi": "Pobla de Segur, la"
+                        },
+                        {
+                            "municipi": "Salàs de Pallars"
+                        },
+                        {
+                            "municipi": "Sant Esteve de la Sarga"
+                        },
+                        {
+                            "municipi": "Sarroca de Bellera"
+                        },
+                        {
+                            "municipi": "Senterada"
+                        },
+                        {
+                            "municipi": "Talarn"
+                        },
+                        {
+                            "municipi": "Torre de Cabdella, la"
+                        },
+                        {
+                            "municipi": "Tremp"
+                        },
+                        {
+                            "municipi": "Castell de Mur"
+                        }
+                    ],
+                    "comarca": "Pallars Jussà"
+                },
+                {
+                    "municipis": [
+                        {
+                            "municipi": "Alins"
+                        },
+                        {
+                            "municipi": "Alt Àneu"
+                        },
+                        {
+                            "municipi": "Baix Pallars"
+                        },
+                        {
+                            "municipi": "Espot"
+                        },
+                        {
+                            "municipi": "Esterri d'Àneu"
+                        },
+                        {
+                            "municipi": "Esterri de Cardós"
+                        },
+                        {
+                            "municipi": "Farrera"
+                        },
+                        {
+                            "municipi": "Lladorre"
+                        },
+                        {
+                            "municipi": "Llavorsí"
+                        },
+                        {
+                            "municipi": "Rialp"
+                        },
+                        {
+                            "municipi": "Soriguera"
+                        },
+                        {
+                            "municipi": "Sort"
+                        },
+                        {
+                            "municipi": "Tírvia"
+                        },
+                        {
+                            "municipi": "Vall de Cardós"
+                        },
+                        {
+                            "municipi": "Guingueta d'Àneu, la"
+                        }
+                    ],
+                    "comarca": "Pallars Sobirà"
+                },
+                {
+                    "municipis": [
+                        {
+                            "municipi": "Barbens"
+                        },
+                        {
+                            "municipi": "Bell-lloc d'Urgell"
+                        },
+                        {
+                            "municipi": "Bellvís"
+                        },
+                        {
+                            "municipi": "Castellnou de Seana"
+                        },
+                        {
+                            "municipi": "Fondarella"
+                        },
+                        {
+                            "municipi": "Golmés"
+                        },
+                        {
+                            "municipi": "Ivars d'Urgell"
+                        },
+                        {
+                            "municipi": "Linyola"
+                        },
+                        {
+                            "municipi": "Miralcamp"
+                        },
+                        {
+                            "municipi": "Mollerussa"
+                        },
+                        {
+                            "municipi": "Palau d'Anglesola, el"
+                        },
+                        {
+                            "municipi": "Poal, el"
+                        },
+                        {
+                            "municipi": "S amon"
+                        },
+                        {
+                            "municipi": "Torregrossa"
+                        },
+                        {
+                            "municipi": "Vilanova de Bellpuig"
+                        },
+                        {
+                            "municipi": "Vila-sana"
+                        }
+                    ],
+                    "comarca": "Pla d'Urgell"
+                },
+                {
+                    "municipis": [
+                        {
+                            "municipi": "Biosca"
+                        },
+                        {
+                            "municipi": "Cervera"
+                        },
+                        {
+                            "municipi": "Estaràs"
+                        },
+                        {
+                            "municipi": "Granyanella"
+                        },
+                        {
+                            "municipi": "Granyena de Segarra"
+                        },
+                        {
+                            "municipi": "Guissona"
+                        },
+                        {
+                            "municipi": "Ivorra"
+                        },
+                        {
+                            "municipi": "Massoteres"
+                        },
+                        {
+                            "municipi": "Montoliu de Segarra"
+                        },
+                        {
+                            "municipi": "Montornès de Segarra"
+                        },
+                        {
+                            "municipi": "Oluges, les"
+                        },
+                        {
+                            "municipi": "Sanaüja"
+                        },
+                        {
+                            "municipi": "Sant Guim de Freixenet"
+                        },
+                        {
+                            "municipi": "Sant Ramon"
+                        },
+                        {
+                            "municipi": "Sant Guim de la Plana"
+                        },
+                        {
+                            "municipi": "Talavera"
+                        },
+                        {
+                            "municipi": "Tarroja de Segarra"
+                        },
+                        {
+                            "municipi": "Torà"
+                        },
+                        {
+                            "municipi": "Ribera d'Ondara"
+                        },
+                        {
+                            "municipi": "Torrefeta i Florejacs"
+                        },
+                        {
+                            "municipi": "Plans de Sió, els"
+                        }
+                    ],
+                    "comarca": "Segarra"
+                },
+                {
+                    "municipis": [
+                        {
+                            "municipi": "Alamús, els"
+                        },
+                        {
+                            "municipi": "Albatàrrec"
+                        },
+                        {
+                            "municipi": "Alcanó"
+                        },
+                        {
+                            "municipi": "Alcarràs"
+                        },
+                        {
+                            "municipi": "Alcoletge"
+                        },
+                        {
+                            "municipi": "Alfarràs"
+                        },
+                        {
+                            "municipi": "Alfés"
+                        },
+                        {
+                            "municipi": "Alguaire"
+                        },
+                        {
+                            "municipi": "Almacelles"
+                        },
+                        {
+                            "municipi": "Almatret"
+                        },
+                        {
+                            "municipi": "Almenar"
+                        },
+                        {
+                            "municipi": "Alpicat"
+                        },
+                        {
+                            "municipi": "Artesa de Lle a"
+                        },
+                        {
+                            "municipi": "Aspa"
+                        },
+                        {
+                            "municipi": "Aitona"
+                        },
+                        {
+                            "municipi": "Benavent de Segrià"
+                        },
+                        {
+                            "municipi": "Corbins"
+                        },
+                        {
+                            "municipi": "Granja d'Escarp, la"
+                        },
+                        {
+                            "municipi": "Lle a"
+                        },
+                        {
+                            "municipi": "Llardecans"
+                        },
+                        {
+                            "municipi": "Massalcoreig"
+                        },
+                        {
+                            "municipi": "Maials"
+                        },
+                        {
+                            "municipi": "Montoliu de Lle a"
+                        },
+                        {
+                            "municipi": "Portella, la"
+                        },
+                        {
+                            "municipi": "Puigverd de Lle a"
+                        },
+                        {
+                            "municipi": "Rosselló"
+                        },
+                        {
+                            "municipi": "Sarroca de Lle a"
+                        },
+                        {
+                            "municipi": "Seròs"
+                        },
+                        {
+                            "municipi": "Soses"
+                        },
+                        {
+                            "municipi": "Sudanell"
+                        },
+                        {
+                            "municipi": "Sunyer"
+                        },
+                        {
+                            "municipi": "Torrebesses"
+                        },
+                        {
+                            "municipi": "Torrefarrera"
+                        },
+                        {
+                            "municipi": "Torres de Segre"
+                        },
+                        {
+                            "municipi": "Torre-serona"
+                        },
+                        {
+                            "municipi": "Vilanova de Segrià"
+                        },
+                        {
+                            "municipi": "Vilanova de la Barca"
+                        },
+                        {
+                            "municipi": "Gimenells i el Pla de la Font"
+                        }
+                    ],
+                    "comarca": "Segrià"
+                },
+                {
+                    "municipis": [
+                        {
+                            "municipi": "Castellar de la Ribera"
+                        },
+                        {
+                            "municipi": "Clariana de Cardener"
+                        },
+                        {
+                            "municipi": "Guixers"
+                        },
+                        {
+                            "municipi": "Lladurs"
+                        },
+                        {
+                            "municipi": "Llobera"
+                        },
+                        {
+                            "municipi": "Molsosa, la"
+                        },
+                        {
+                            "municipi": "Navès"
+                        },
+                        {
+                            "municipi": "Odèn"
+                        },
+                        {
+                            "municipi": "Olius"
+                        },
+                        {
+                            "municipi": "Coma i la Pedra, la"
+                        },
+                        {
+                            "municipi": "Pinell de Solsonès"
+                        },
+                        {
+                            "municipi": "Pinós"
+                        },
+                        {
+                            "municipi": "Riner"
+                        },
+                        {
+                            "municipi": "Sant Llorenç de Morunys"
+                        },
+                        {
+                            "municipi": "Solsona"
+                        }
+                    ],
+                    "comarca": "Solsonès"
+                },
+                {
+                    "municipis": [
+                        {
+                            "municipi": "Agramunt"
+                        },
+                        {
+                            "municipi": "Anglesola"
+                        },
+                        {
+                            "municipi": "Belianes"
+                        },
+                        {
+                            "municipi": "Bellpuig"
+                        },
+                        {
+                            "municipi": "Castellserà"
+                        },
+                        {
+                            "municipi": "Ciutadilla"
+                        },
+                        {
+                            "municipi": "Fuliola, la"
+                        },
+                        {
+                            "municipi": "Guimerà"
+                        },
+                        {
+                            "municipi": "Maldà"
+                        },
+                        {
+                            "municipi": "Nalec"
+                        },
+                        {
+                            "municipi": "Omells de na Gaia, els"
+                        },
+                        {
+                            "municipi": "Ossó de Sió"
+                        },
+                        {
+                            "municipi": "Preixana"
+                        },
+                        {
+                            "municipi": "Puigverd d'Agramunt"
+                        },
+                        {
+                            "municipi": "Tàrrega"
+                        },
+                        {
+                            "municipi": "Tornabous"
+                        },
+                        {
+                            "municipi": "Vallbona de les Monges"
+                        },
+                        {
+                            "municipi": "Verdú"
+                        },
+                        {
+                            "municipi": "Vilagrassa"
+                        },
+                        {
+                            "municipi": "Sant Martí de Riucorb"
+                        }
+                    ],
+                    "comarca": "Urgell"
+                }
+            ]
+        }
+    ]
+}
